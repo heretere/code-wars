@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "test": "jest",
-    "test:last-survivor": "npm test -- ./last-survivor/last-survivor.test.js"
+    "test:last-survivor": "npm test -- ./last-survivor/last-survivor.test.js",
+    "test:last-survivor-ep2": "npm test -- ./last-survivor-ep2/last-survivor.test.js"
   },
   "author": "",
   "license": "ISC",
